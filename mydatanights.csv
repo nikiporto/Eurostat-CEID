@@ -1,0 +1,17 @@
+id,country,year,touristsorigin,numberofnights
+1,Greece,2016,Total,110020042
+2,Greece,2017,Total,119009014
+3,Greece,2018,Total,123087178
+4,Greece,2019,Total,143594467
+5,Greece,2016,Foreign country,87912850
+6,Greece,2017,Foreign country,97034421
+7,Greece,2018,Foreign country,102571241
+8,Greece,2019,Foreign country,119971390
+9,Belgium,2016,Total,36855214
+10,Belgium,2017,Total,38677308
+11,Belgium,2018,Total,41320284
+12,Belgium,2019,Total,42512847
+13,Belgium,2016,Foreign country,1604510
+14,Belgium,2017,Foreign country,1615654
+15,Belgium,2018,Foreign country,1921589
+16,Belgium,2019,Foreign country,1853403
